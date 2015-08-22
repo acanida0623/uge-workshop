@@ -1,3 +1,6 @@
+
+
+
 git config 
 	configures item in git
 git config –-list
@@ -27,4 +30,19 @@ git branch git-notes
 	creates new branch
 git checkout <branchname>
 	goes into specified branch
+touch <file.txt>
+	creates a new file in current repository
+git remote –v
+	verifies what remotes you have
+git remote add origin url
+
+
+origin refers to the relationship between two repositories
+	origin is determined when you add a remote url
+
+git push
+	is SENDING changes from someone else
+git pull
+	is GRABBING changes from someone else
+
 
