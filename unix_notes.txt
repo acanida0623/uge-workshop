@@ -1,4 +1,7 @@
-cd
+
+
+files whose names begins with . is hidden file
+ls -la shows the hidden files
 history | less
 history
 man history
