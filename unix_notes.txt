@@ -1,0 +1,210 @@
+cd
+history | less
+history
+man history
+man his
+man hi
+history 5
+ls ...
+ls ..
+pwd
+ls
+ls .
+ls users/andrewcanida/
+ls User/andrewcanida
+ls /Users/D
+cd /
+ls /Users/documents
+ls /
+cd ~
+cd ../..
+cd ..
+cd .
+cd Pictures/
+cd ap
+cd Picures
+ls -l
+cd my
+mkdir My\ Dir
+mkdir
+mkdir My Dir
+cd /user/andrewcanida
+cd Downloads/
+cd 
+man cd
+man ls
+man pwd
+q
+ls -man
+ls man
+man
+ls -lt
+cd dow
+ls -t
+ls -la
+cd music
+cd /desktop
+cd Desktop/
+cd d
+cd document
+acanida0623
+git --version
+GIT --VERSION
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'MR.ANDREW.CANIDA@GMAIL.COM'
+git config --global user.name 'ANDREW CANIDA'
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish 
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+git status
+git commit -m updated donutshop
+git add desktop/school/html/donutshop/donutshopupdate.html
+git commit -m "update version of donut shop with css header/footer
+git commit
+git add desktop/school/html/donutshop/donutshop.html
+git init
+git commit -m "suggestion box assignment"
+git add desktop/school/html/suggestion_box_counter.html
+git add desktop/school/html/suggestion_box.html
+git push -u origin master
+push -u origin master
+git remote add origin https://github.com/acanida0623/suggestionbox.git
+echo "# Suggestion_box" >> README.md
+git commit -m"suggestion box assigntment" 
+git remote add origin https://github.com/acanida0623/Suggestion_box.git
+git commit -m "my suggestionbox assignment"
+git add 
+git add desktop/school/html/html
+git remote add origin https://github.com/acanida0623/aboutme.git
+git commit -m "first commit"
+git add README.md
+echo "# aboutme" >> README.md
+git commit -m "my first webpage"
+git add desktop/school/html/html/
+git mkdir
+git add
+less unix_notes.txt 
+ls
+:q
+:
+mv moving_around.txt unix_notes.txt
+cd uge_workshop/
+mv moving_around.txt ./uge_workshop/
+..
+mkdir uge_workshop
+cd
+subl moving_around.txt 
+lf
+cd Pictures/
+cd p
+cd courtneywimer/
+cd ..
+mv history.txt moving_around.txt
+less history.txt 
+cd history.txt
+ls history.txt 
+history.txt
+ls -t
+history > history.txt
+history | less
+history
+man history
+man his
+man hi
+history 5
+ls ...
+ls ..
+pwd
+ls .
+ls users/andrewcanida/
+ls User/andrewcanida
+ls /Users/D
+cd /
+ls /Users/documents
+ls /
+cd ~
+cd ../..
+cd .
+cd ap
+cd Picures
+ls -l
+cd my
+mkdir My\ Dir
+mkdir
+mkdir My Dir
+cd /user/andrewcanida
+cd Downloads/
+cd 
+man cd
+man ls
+man pwd
+q
+ls -man
+ls man
+man
+ls -lt
+cd dow
+ls -la
+cd music
+cd /desktop
+cd Desktop/
+cd d
+cd document
+acanida0623
+git --version
+GIT --VERSION
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'MR.ANDREW.CANIDA@GMAIL.COM'
+git config --global user.name 'ANDREW CANIDA'
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+subl /etc/paths
+echo $PATH
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish 
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+git status
+git commit -m updated donutshop
+git add desktop/school/html/donutshop/donutshopupdate.html
+git commit -m "update version of donut shop with css header/footer
+git commit
+git add desktop/school/html/donutshop/donutshop.html
+git init
+git commit -m "suggestion box assignment"
+git add desktop/school/html/suggestion_box_counter.html
+git add desktop/school/html/suggestion_box.html
+git push -u origin master
+push -u origin master
+git remote add origin https://github.com/acanida0623/suggestionbox.git
+echo "# Suggestion_box" >> README.md
+git commit -m"suggestion box assigntment" 
+git remote add origin https://github.com/acanida0623/Suggestion_box.git
+git commit -m "my suggestionbox assignment"
+git add 
+git add desktop/school/html/html
+git remote add origin https://github.com/acanida0623/aboutme.git
+git commit -m "first commit"
+git add README.md
+echo "# aboutme" >> README.md
+git commit -m "my first webpage"
+git add desktop/school/html/html/
+git mkdir
+git add
