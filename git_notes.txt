@@ -1,0 +1,50 @@
+
+
+
+git config 
+	configures item in git
+git config –-list
+	shows settings you’ve changed 
+git --help
+
+git init
+	creates an empty repository in current directory
+git status
+	-equivalent to ls, tells you what BRANCH you are on
+	-tells you initial commit
+	-tells you state of files in your repository, files that are UNTRACKED means that git is not going to update changes to these files until you commit the changes
+
+git add filename
+	adds a file to the repository that are waiting to be commited…AKA file is now STAGED
+
+when you commit a file, it gives you a hash number/code. You can use this hash to rollback to this commit or other uses as well
+
+git checkout -- <file>
+	git will revert any changes made to this file back to the last commit.
+
+git log
+	shows each commit/changes done to the repository
+git branch
+	lists branches
+git branch git-notes
+	creates new branch
+git checkout <branchname>
+	goes into specified branch
+touch <file.txt>
+	creates a new file in current repository
+git remote –v
+	verifies what remotes you have
+git remote add origin url
+
+
+origin refers to the relationship between two repositories
+	origin is determined when you add a remote url
+
+git push
+	is SENDING changes from someone else
+	This is how you "publish" my commited changes I have made on my local machine and publish them to my remote origin on
+github
+git pull
+	is GRABBING changes from someone else
+
+
