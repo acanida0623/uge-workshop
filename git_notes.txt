@@ -42,6 +42,8 @@ origin refers to the relationship between two repositories
 
 git push
 	is SENDING changes from someone else
+	This is how you "publish" my commited changes I have made on my local machine and publish them to my remote origin on
+github
 git pull
 	is GRABBING changes from someone else
 
